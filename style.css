@@ -1,0 +1,49 @@
+img{
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+}
+body{
+    background-color: white;
+    background-image: url('girl.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.8;
+    width: 100vw;
+    height: 100vh;
+}
+ aside a{
+    margin: 0px;
+    padding: 0px;
+}
+ aside a{
+    color: white;
+    float: left;
+    text-decoration: none;
+    padding: 35px;
+    font-size: 25px;
+}
+ aside a:hover{
+    color: green;
+}
+h1{
+    color: purple;
+    padding: 200px;
+    font-size: 40px;
+    font-style: italic;
+}
+a{
+    font-size: 25px;
+    font-style:oblique;
+    color: green;
+
+}
+table{
+    border:"5";
+    cellpadding:"5" ;
+    cellspacing:"0" ;
+    background-color: bisque;
+    margin-top:10% ;
+    margin-left: 15px;
+}
